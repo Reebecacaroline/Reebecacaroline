@@ -68,12 +68,4 @@ Oi! Sou a Reebeca Caroline
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=reebecacaroline&show_icons=true&theme=radical)"
 
 
-<img
-    align="left"
-    alt="GitHub Stats"
-    title="Python"
-    width="300"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reebecacaroline&layout=compact&show_icons=true&theme=radical"
-/>
 
